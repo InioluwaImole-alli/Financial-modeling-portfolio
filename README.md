@@ -9,9 +9,8 @@ Welcome to my financial modeling and equity research repository. This hub featur
 * **Asset Class:** Public Equities (NGX)
 * **Sector:** Power Generation (Utilities)
 * **Deliverables:** 
-  * 📊 [Dynamic 3-Statement & DCF Valuation Model]([./Geregu_Power_Plc_Valuation_Model.xlsx](https://1drv.ms/x/c/118f8ea519d298bd/IQBKeEGU8ur3S78ELfZTCvZSAQerMBdCw_dFFHDKTo0e4t8?e=11tnGC))
-  * 📄 [Executive Investment Memo (PDF)]([./Geregu_Power_Plc_Investment_Memo.pdf](https://1drv.ms/w/c/118f8ea519d298bd/IQCErQqowF6qQKNeerUswX65AfDY-lpGun2xAxXyCMT0J5M?e=6Ic4Rh))
-
+  * 📊 https://1drv.ms/x/c/118f8ea519d298bd/IQBKeEGU8ur3S78ELfZTCvZSAQerMBdCw_dFFHDKTo0e4t8?e=ahQjJM
+  * 📄https://1drv.ms/w/c/118f8ea519d298bd/IQCErQqowF6qQKNeerUswX65AfDY-lpGun2xAxXyCMT0J5M?e=deuQZo
 ### Executive Summary & Valuation Thesis
 This project provides a comprehensive fundamental valuation of Geregu Power Plc against the backdrop of a highly restrictive domestic macroeconomic environment. The analysis reveals a significant divergence between fundamental intrinsic value and current market pricing—highlighting the classic frontier market variance between baseline corporate cash flows and public market technicals.
 
