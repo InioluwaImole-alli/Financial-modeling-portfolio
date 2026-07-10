@@ -27,5 +27,34 @@ This project provides a comprehensive fundamental valuation of Geregu Power Plc 
 * **Capital Structure & Debt Schedules:** Explicit mapping of interest-bearing liabilities, tracking the exact weight of net debt inside the Enterprise Value equation.
 * **Sensitivity Matrix:** Double-variable sensitivity tables analyzing the impact of changing WACC baselines and Terminal Growth Rates ($g$) on the final per-share value.
 
+* ## Project 2: May & Baker Nigeria Plc — Dual-Track Valuation Engine (DCF & Trading Comps)
+
+* **Asset Class:** Public Equities (NGX)
+* **Sector:** Healthcare (Pharmaceutical Manufacturing)
+* **Deliverables:** 
+  * 📊 https://1drv.ms/x/c/118f8ea519d298bd/IQAZ6pCSMj8SQbx8bKNnPwV8Abng_38cknTmAKPjx54Xwnw?e=90ODhR
+  * 📄 https://1drv.ms/w/c/118f8ea519d298bd/IQChg30ITQyiSp9Lji_uFi6xAYWcUISkeeEJ4jEEqcTijLk?e=GpTGf1
+
+### Executive Summary & Valuation Thesis
+This project features an institutional-grade, dual-track valuation engine combining an Unlevered Discounted Cash Flow (DCF) model and an active Trading Comparables (Comps) matrix for May & Baker Nigeria Plc (MAYBAKER). The model explores a classic valuation paradox common in frontier markets: while conservative macroeconomic risk-discounting places the stock’s standalone intrinsic value below current market levels, a granular relative peer analysis proves the asset is trading at a steep structural discount compared to its closest public competitors, offering a compelling long-term relative value play.
+
+### Core Valuation Mechanics & Methodology
+
+* **1. Absolute Valuation (Intrinsic DCF Engine)**
+  * **Implied Value:** **₦24.90 per share**, establishing a highly conservative baseline and built-in margin of safety.
+  * **Macro Risk Integration:** Future free cash flows to the firm (FCFF) are discounted using a robust **19.39% WACC**. This rate is driven by a **24.49% Cost of Equity** that incorporates Aswath Damodaran's structural country risk premium for Nigeria (8.41% CRP) and an elevated local risk-free rate of 9.47%.
+  * **Terminal Value Constraints:** The long-term growth rate ($g$) is capped strictly at the risk-free rate (9.47%) to aggressively anchor and penalize speculative outer-year cash projections.
+
+* **2. Relative Valuation (Trading Comps Matrix)**
+  * **Peer Universe:** Multiples are benchmarked against clean, normalized FY2025 financial lines for **Fidson Healthcare Plc (FIDSON)** and **MeCure Industries Plc (MECURE)**.
+  * **The Relative Discount:** At its current market price of ₦38.00, May & Baker trades at a trailing **P/E of 14.7x**, significantly trailing Fidson (**26.1x**) and MeCure (**58.6x**).
+  * **Multiple Diagnostics:** Across all core trading multiples—including Price-to-Sales (1.71x vs peer average of 3.47x) and Price-to-Book (4.80x vs peer average of 15.86x)—May & Baker trades at a deep sector discount despite maintaining a highly competitive 34.3% gross profit margin.
+
+### Model Architecture & Technical Specifications
+* **Integrated 3-Statement Linkage:** Fully dynamic projection engine (FY 2026F – FY 2030F) built from audited disclosures, utilizing non-circular finance loops to protect spreadsheet stability.
+* **Granular EBITDA-to-NOPAT Normalization:** Isolated pure operating metrics by stripping out cross-allocated corporate expenses, identifying true EBITDA, structural Depreciation & Amortization (D&A), and Net Operating Profit After Tax (NOPAT) to judge cash generation independent of leverage.
+* **Pure-Play Beta Relevering:** Deployed Damodaran's global pharmaceutical industry baseline unlevered beta (0.91), relevering it to **1.19** against May & Baker's true book capital structure (0.46 Debt-to-Equity) and a 33.0% blended marginal corporate tax shield.
+* **Net Working Capital (NWC) Drivers:** Modeled discrete efficiency cycles (Receivable Days, Inventory Days, Payables Days) to dynamically feed cash adjustments directly into the Cash Flow from Operations (CFO) block.
+
 
 ---
