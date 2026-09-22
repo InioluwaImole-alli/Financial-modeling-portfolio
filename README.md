@@ -56,7 +56,9 @@ This project features an institutional-grade, dual-track valuation engine combin
 * **Pure-Play Beta Relevering:** Deployed Damodaran's global pharmaceutical industry baseline unlevered beta (0.91), relevering it to **1.19** against May & Baker's true book capital structure (0.46 Debt-to-Equity) and a 33.0% blended marginal corporate tax shield.
 * **Net Working Capital (NWC) Drivers:** Modeled discrete efficiency cycles (Receivable Days, Inventory Days, Payables Days) to dynamically feed cash adjustments directly into the Cash Flow from Operations (CFO) block.
 
-* ##Project 3: HBM Africa Plc — Three-Statement Model & Blended Valuation (DCF + Trading Comps)
+* 
+
+* ## Project 3: HBM Africa Plc — Three-Statement Model & Blended Valuation (DCF + Trading Comps)
 
 **Asset Class: Public Equities (NGX)**
 **Sector: Industrial Goods (Cement Manufacturing)**
@@ -65,18 +67,18 @@ This project features an institutional-grade, dual-track valuation engine combin
 📊 https://1drv.ms/x/c/118f8ea519d298bd/IQA5oezCn3-wTZxag6OjiJ0VAdwiKeOR31zNCvu88VBms3k
 📄 https://1drv.ms/w/c/118f8ea519d298bd/IQBS_gbCAZeGRprkOc6_StIGASRjujYpAZH7gWofZX-TqPg?e=oO6O7a
 
-###Executive Summary & Valuation Thesis
+### Executive Summary & Valuation Thesis
 
 This project combines a forensic model-audit exercise with an institutional initiation-of-coverage note on HBM Africa Plc (NGX: HBMNG). The engagement began with a materially broken three-statement model and ended with a fully reconciled, dynamically linked forecast supporting a blended DCF and trading-comps valuation. The resulting HOLD thesis captures a company whose operational turnaround is real and already priced in, with further re-rating capped by Nigeria's elevated cost-of-capital regime.
 
-###Key Insights & Findings
+### Key Insights & Findings
 
 **1. Blended Target Price:** ₦349.54 per share against a ₦345.00 market price — a modest +1.32% capital upside, plus a projected FY2026E dividend yield of 2.67%, for an Expected Total Return of +3.99% (HOLD).
 **2. The DCF Anchor:** Standalone intrinsic value of ₦111.48 per share, sitting far below market price. The gap is driven almost entirely by a punishing 20.33% WACC — a 9.47% risk-free rate plus an 8.41% Damodaran country risk premium — which mathematically compresses terminal cash flows and caps multiple expansion.
 **3. Comps Positioning:** HBM Africa trades at 12.40x EV/EBITDA and 20.35x P/E — a premium to Dangote Cement (11.57x / 19.05x) but a discount to BUA Cement (18.74x / 29.39x), landing it inside rather than at the edge of the sector's re-rating range.
 **4. Operating Step-Change Already Priced In:** FY2024–FY2025 net sales grew +53.04%, EBITDA margin expanded from 26.91% to 39.71%, and ROE nearly tripled from 19.18% to 48.21% — a 5-stage DuPont breakdown confirms the improvement was driven by operating leverage and margin expansion, not added financial leverage.
 
-###Model Architecture & Methodology
+### Model Architecture & Methodology
 
 **1. Integrated 3-Statement Linkage:** Fully dynamic FY2026E–FY2030E projection engine anchored to cement dispatch volumes (6.70 MMT scaling to 8.40 MMT at 80% capacity utilization) and MYTO-style net pricing assumptions (₦190,000/tonne to ₦263,000/tonne per tonne).
 **2. DCF Engine:** 5-year explicit FCFF forecast (NOPAT + D&A less capex and NWC changes) discounted at 20.33% WACC, with a 4.30% after-tax terminal growth rate capitalizing terminal value to 38% of total Enterprise Value.
