@@ -56,7 +56,6 @@ This project features an institutional-grade, dual-track valuation engine combin
 * **Pure-Play Beta Relevering:** Deployed Damodaran's global pharmaceutical industry baseline unlevered beta (0.91), relevering it to **1.19** against May & Baker's true book capital structure (0.46 Debt-to-Equity) and a 33.0% blended marginal corporate tax shield.
 * **Net Working Capital (NWC) Drivers:** Modeled discrete efficiency cycles (Receivable Days, Inventory Days, Payables Days) to dynamically feed cash adjustments directly into the Cash Flow from Operations (CFO) block.
 
-* 
 
 * ## Project 3: HBM Africa Plc — Three-Statement Model & Blended Valuation (DCF + Trading Comps)
 
