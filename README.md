@@ -73,14 +73,18 @@ This project combines a forensic model-audit exercise with an institutional init
 ### Key Insights & Findings
 
 **1. Blended Target Price:** ₦349.54 per share against a ₦345.00 market price — a modest +1.32% capital upside, plus a projected FY2026E dividend yield of 2.67%, for an Expected Total Return of +3.99% (HOLD).
+
 **2. The DCF Anchor:** Standalone intrinsic value of ₦111.48 per share, sitting far below market price. The gap is driven almost entirely by a punishing 20.33% WACC — a 9.47% risk-free rate plus an 8.41% Damodaran country risk premium — which mathematically compresses terminal cash flows and caps multiple expansion.
+
 **3. Comps Positioning:** HBM Africa trades at 12.40x EV/EBITDA and 20.35x P/E — a premium to Dangote Cement (11.57x / 19.05x) but a discount to BUA Cement (18.74x / 29.39x), landing it inside rather than at the edge of the sector's re-rating range.
 **4. Operating Step-Change Already Priced In:** FY2024–FY2025 net sales grew +53.04%, EBITDA margin expanded from 26.91% to 39.71%, and ROE nearly tripled from 19.18% to 48.21% — a 5-stage DuPont breakdown confirms the improvement was driven by operating leverage and margin expansion, not added financial leverage.
 
 ### Model Architecture & Methodology
 
 **1. Integrated 3-Statement Linkage:** Fully dynamic FY2026E–FY2030E projection engine anchored to cement dispatch volumes (6.70 MMT scaling to 8.40 MMT at 80% capacity utilization) and MYTO-style net pricing assumptions (₦190,000/tonne to ₦263,000/tonne per tonne).
+
 **2. DCF Engine:** 5-year explicit FCFF forecast (NOPAT + D&A less capex and NWC changes) discounted at 20.33% WACC, with a 4.30% after-tax terminal growth rate capitalizing terminal value to 38% of total Enterprise Value.
+
 **3. Football Field Weighting:** Blended target price built from a 40% P/E / 20% EV/EBITDA / 20% EV/Revenue / 20% DCF allocation, with the 52-week trading range retained at 0% weight as a sentiment-only benchmark per CFA Institute Research Challenge convention.
 
 
